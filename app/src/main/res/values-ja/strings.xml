@@ -103,7 +103,7 @@
     <string name="qs_tile_label_missing_privileges">権限がありません</string>
     <string name="qs_tile_subtitle_hold_for_settings">長押しで設定</string>
     <string name="qs_tile_subtitle_enable_wifi_first">まず Wi-Fi を有効化してください</string>
-    <string name="qs_tile_subtitle_no_connection_data">データ接続なし</string>
+    <string name="qs_tile_subtitle_no_connection_data">接続データなし</string>
     <string name="qs_tile_subtitle_missing_privileges">手順についてはアプリを参照してください</string>
     <string name="preference_name_secure_qs_tile">セキュアなクイック設定タイル</string>
     <string name="preference_summary_secure_qs_tile">ワイヤレス デバッグを切り替えるにはデバイスのロックを解除してください。</string>
